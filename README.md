@@ -3,8 +3,8 @@
 Projektbeskrivelse
 
 Gruppe: Magnus, Mikkel og Felix
-Idebeskrivelse: Simpelt kryds og bolle spil hvor 
-der er en vinder og man kan nulstille.
+
+Idebeskrivelse: Simpelt kryds og bolle spil hvor der er en vinder og man kan nulstille.
 
 
 Milepæle
